@@ -57,4 +57,8 @@ This project demonstrates the effectiveness of machine learning and deep learnin
 - OpenCV tutorials  
 - Research papers on CNNs and image classification
 
+- ## project documentation
+- the full project documentation is available
+-  https://1drv.ms/w/c/4B4FCB849CE32BF7/EWGZImuAMNhEkGifpgWXGPQBktajKrgjM2sOhPcV496dkA?e=Kx3PzA
+
 
