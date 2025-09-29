@@ -1,2 +1,3 @@
-# Image-classification-project
-"Image Classification Project using CNN/ML models to classify images into categories."
+git add README.md
+git commit-m "Added README for Image Classification Project"
+git push
